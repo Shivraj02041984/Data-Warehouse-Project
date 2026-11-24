@@ -30,5 +30,7 @@ License
 
 This project Licensed under MIT License. You are free to use, modify, and share this project with proper attribution. 
 
-----------------------------------------------------------------------------------------------------------------------------About Me:
+----------------------------------------------------------------------------------------------------------------------------
+
+About Me:
 My name is Shivaji, I'm an It professional, with over 15+ years of experience in the IT industry, specializing in Data Solutions, Data and API Architect, ETL development, data integration, data migration, and large-scale data engineering projects. Proven expertise in data warehousing, Cloud services, Teradata Vantage Cloud, Informatica PowerCenter, Power Exchange. Experienced in migrating the large scale of a bank’s on-premises data warehouse onto the Teradata vantage of using AWS cloud services. Familiar with the Big Data and Hadoop framework for processing large-scale data and bringing it into the data lake platform.  I am a strategic thinker, problem-solver. Passionate about leveraging modern data technologies to drive business intelligence, enhancing digital transformation, and enabling data-driven decision making through scalable and secure architecture. 
